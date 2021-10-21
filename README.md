@@ -1,2 +1,2 @@
 # training
-hello world etc
+hello world etc.
