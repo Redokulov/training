@@ -1,3 +1,4 @@
 1
 w
 12589fghc
+/give @p diamond_axe{"display":{"Name":"[{\"text\":\"Топор Смерти\",\"color\":\"aqua\"}]"},"Enchantments":[{"id":"fire_aspect","lvl":99999},{"id":"knockback","lvl":99999},{"id":"looting","lvl":5},{"id":"sharpness","lvl":100000}],"Unbreakable":1} 1
